@@ -7,3 +7,13 @@ sum=num1+num2;
 printf("%d+%d=%d",num1,num2,sum);
 return 0;
 }
+#include<stdio.h>
+int main()
+{
+int p,t,r,si;
+printf("Enter the principal:");
+scanf("%d",&p);
+printf("\nEnter the Time:");
+scanf("%d",&t);
+printf
+}
