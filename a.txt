@@ -17,3 +17,8 @@ printf("\nEnter the Time:");
 scanf("%d",&t);
 printf
 }
+#include<stdio.h>
+int main()
+{
+printf("BIET");
+}
